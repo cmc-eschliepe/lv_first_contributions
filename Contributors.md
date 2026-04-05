@@ -5,8 +5,6 @@ Feel free to use whatever name or nickname you want as long as it doesn't confli
 
 ------------------------------------
 eschliepe
-
 gcentral-eschliepe
-
 cmc-eschliepe
 ---------------------------------
